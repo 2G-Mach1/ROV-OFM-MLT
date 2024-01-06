@@ -1,8 +1,8 @@
-Project Title: ROV-OFM & MLT - Underwater Exploration and Mapping
+Project Title: ROV-MLE - Marine Life Exploration and Ocean-Mapping
 
 Description:
 
-ROV-OFM & MLT stands as a comprehensive project meticulously crafted for underwater exploration, ocean floor mapping, and marine life tracking. 
+ROV-MLE stands as a comprehensive project meticulously crafted for underwater exploration, ocean floor mapping, and marine life tracking. 
 Operating under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0) license, this project invites collaboration and innovation within scientific and enthusiast communities.
 
 Key Features:
