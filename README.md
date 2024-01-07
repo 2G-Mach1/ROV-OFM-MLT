@@ -17,7 +17,7 @@ Contribution Guidelines:
 
 Multidisciplinary Contributions: Encourages contributions from a diverse range of disciplines, including marine biology, robotics, software development, and environmental science.
 Innovative Modules:              Envisions the development of innovative modules that can expand the project's capabilities, addressing emerging challenges in underwater exploration.
-Documentation Enhancement:       Encourages community members to contribute by improving project documentation, ensuring accessibility to newcomers and advancing the educational aspects of ROV-OFM & MLT.
+Documentation Enhancement:       Encourages community members to contribute by improving project documentation, ensuring accessibility to newcomers and advancing the educational aspects of ROV-MLE.
 
 Join us in the exploration of the unseen, the mapping of the mysterious ocean floor, and the tracking of marine life that holds the key to ecological balance. 
 Under the CC BY-NC-SA license, let's forge new paths in underwater research and share our collective knowledge for the betterment of marine science and conservation.
